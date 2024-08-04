@@ -34,5 +34,6 @@ a.out
 *.out
 *.app
 
+.vs/
 build/
 git_diff.txt
